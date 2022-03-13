@@ -1,0 +1,89 @@
+h1{
+    text-align: center;
+}
+p{
+    margin: 15px;
+}
+.bdinicio{
+    background-image: url(../img/one-piece-anime-recap.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0px;
+    min-height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.titulo{
+    font-family: 'Fredoka', sans-serif;
+    font-style: italic;
+    color: rgb(199, 16, 16);
+}
+.menuOne{ 
+    padding: 20px;
+    background-color: rgba(54, 46, 46, 0.534);
+    margin-bottom: 10px;
+}
+.btnmenuOne, .btnmenuOne:visited{
+    text-decoration: none;
+    color: white (19, 250, 250);
+    background-color: orange;
+    padding: 10px 40px;
+    border: solid 1px;
+    border-radius: 10px;
+    margin: 0px 10px;
+}
+.btnmenuOne:hover{
+background-color: rgb(0, 217, 255);
+color: rgb(167, 44, 44);
+}
+.btnmenuOne:active{
+    background-color: rgb(255, 8, 0);
+}
+.campoInfo{
+    height: 655px;
+    width: 250px;
+    color: white;
+    background-color: rgba(37, 39, 9, 0.534);
+    display: block;
+    float: left;
+    margin-left: 20px;
+}
+.campoTexto{
+    height: 655px;
+    width: 660px;
+    text-align: center;
+    color: white;
+    background-color: rgba(37, 39, 9, 0.534);
+    display: block;
+    float: left;
+    margin-left: 20px;
+}
+.campoImagen{
+    height: 655px;
+    width: 370px;
+    color: white;
+    background-color: rgba(37, 39, 9, 0.534);
+    display: inline-block;;
+    margin-left: 20px;
+}
+i{
+    font-size: 25px;
+    color:rgb(255, 8, 0)
+}
+.cuerpo{
+    width: 100%;
+}
+.imageno1{
+    margin: 5px 35px ;
+    
+
+}
+.comentario{
+    margin: 5px 150px;
+    width: 1000px;
+    height: 100px;
+}
+.subtitulos{
+    color:beige;
+}

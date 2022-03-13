@@ -1,0 +1,92 @@
+h1{
+    text-align: center;
+}
+h2{ 
+    font-family: 'Sansita Swashed', cursive;
+    cursor: pointer;
+    text-align: center;
+    color: rgb(63, 12, 107);
+    letter-spacing: 30px;
+}
+h3{
+    text-align: center;
+}
+p{
+    margin: 0px 20px;
+    font-family: 'Syne Mono', monospace;
+    color: rgb(63, 12, 107);
+}
+.HUNTER{
+    background-image:url(../img/H5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0px;
+    min-height: 100vh;
+}
+i {
+    font-size: 25px;
+    color:rgb(255, 8, 0)
+}
+.hunterCont{
+    
+    background-color:  rgba(238, 160, 227);
+    width: 289px;
+    height: 895px;
+    margin: 1px 10px 0px 0px;
+    float: left;
+
+}
+.hunterText{
+    background-color: rgba(238, 160, 227);
+    width: 660px;
+    height: 895px;
+    margin: 1px 10px 0px 0px;
+    float: left;
+}
+.hunterImg{
+    background-color: rgba(238, 160, 227);
+    width: 370px;
+    height: 895px;
+    margin: 1px 10px 0px 0px;
+    float: left;
+}
+.imageno1{
+    margin: 5px 90px ;
+}
+.imageno2{
+    margin: 5px 35px ;
+}
+.imageno3{
+    margin: 5px 50px ;
+}
+.comentario{
+    margin: 5px 150px;
+    width: 1000px;
+    height: 100px;
+}
+.sub{
+    color:rgb(182, 11, 68);
+}
+.menuhunter{ 
+    padding: 20px;
+    background-color: rgba(238, 160, 227);
+    margin-bottom: 10px;
+}
+.btnmenuHunter, .btnmenuHunter:visited{
+    text-decoration: none;
+    color: white (19, 250, 250);
+    background-color: rgba(255, 0, 179, 0.61);
+    padding: 10px 40px;
+    border: solid 1px;
+    border-radius: 10px;
+    margin: 0px 10px;
+}
+.btnmenuHunter:hover{
+    background-color: rgb(0, 217, 255);
+    color: rgb(167, 44, 44);
+}
+.btnmenuHunter:active{
+    background-color: rgb(255, 8, 0);
+}
